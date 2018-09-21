@@ -1,0 +1,8 @@
+C:\Users\steve\Desktop\Development\ExcelExport\CoConstruct\bin\Debug\CoConstruct.dll
+C:\Users\steve\Desktop\Development\ExcelExport\CoConstruct\bin\Debug\CoConstruct.pdb
+C:\Users\steve\Desktop\Development\ExcelExport\CoConstruct\obj\Debug\CoConstruct.dll
+C:\Users\steve\Desktop\Development\ExcelExport\CoConstruct\obj\Debug\CoConstruct.pdb
+C:\Users\steve\Desktop\Development\ExcelExport\CoConstruct\obj\Debug\CoConstruct.csproj.ResolveComReference.cache
+C:\Users\steve\Desktop\Development\ExcelExport\CoConstruct\obj\Debug\CoConstruct.csprojResolveAssemblyReference.cache
+C:\Users\steve\Desktop\Development\ExcelExport\CoConstruct\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\steve\Desktop\Development\ExcelExport\CoConstruct\bin\Debug\DocumentFormat.OpenXml.xml
